@@ -66,7 +66,7 @@ export const Navigation: React.FC = () => {
             <WeddingMonogram className="w-full h-full" />
           </div>
           <span className="font-extrabold text-sm sm:text-base tracking-[0.15em] text-amber-400 uppercase drop-shadow">
-            {language === "en" ? "Yokesh & Priyanka" : "யோகேஷ் & பிரியங்கா"}
+            {language === "en" ? "Ramesh & Priyanka" : "ரமேஷ் & பிரியங்கா"}
           </span>
         </div>
 

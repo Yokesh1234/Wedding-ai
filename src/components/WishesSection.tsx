@@ -22,7 +22,7 @@ export const WishesSection: React.FC = () => {
         id: "wish-seed-1",
         name: "Sathish Kumar Achari",
         mobile: "9444390112",
-        message: "Wishing my dear cousin Yokesh and Priyanka a gorgeous life ahead. May your family design be structured with pure love and devotion!",
+        message: "Wishing my dear cousin Ramesh and Priyanka a gorgeous life ahead. May your family design be structured with pure love and devotion!",
         timestamp: "2026-06-05T18:30:00Z"
       },
       {

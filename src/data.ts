@@ -11,8 +11,8 @@ export const WEDDING_DATE = new Date("2026-09-06T07:30:00");
 
 export const HERO_DATA = {
   groom: {
-    name: { en: "Yokesh", ta: "யோகேஷ்" },
-    title: { en: "Yokesh, B.E., M.S.", ta: "யோகேஷ், B.E., M.S." },
+    name: { en: "Ramesh", ta: "ரமேஷ்" },
+    title: { en: "Ramesh, B.E., M.S.", ta: "ரமேஷ், B.E., M.S." },
     details: { en: "S/O Thiru. P. Jagannathan (Master Craftsman) & Smt. J. Rajeshwari", ta: "அருமை மகன்: திரு. P. ஜெகந்நாதன் (சிற்பக் கலைஞர்) & திருமதி. J. ராஜேஸ்வரி" }
   },
   bride: {
@@ -31,8 +31,8 @@ export const STORY_MILESTONES: StoryMilestone[] = [
     title: { en: "Ponnu Paarthal (Traditional Meet)", ta: "பெண் பார்த்தல்" },
     date: { en: "December 14, 2025", ta: "டிசம்பர் 14, 2025" },
     description: {
-      en: "The auspicious first meeting of both families. With deep traditional values matching, Yokesh and Priyanka exchanged gentle smiles, and a lifetime bond of gold was instantly forged under the blessings of family elders.",
-      ta: "இரு குடும்பங்களின் மங்களகரமான முதல் சந்திப்பு. பாரம்பரிய முறைப்படி யோகேஷ் மற்றும் பிரியங்கா தங்களை ஒருவருக்கொருவர் புரிந்து கொண்டனர். பெரியோர்களின் ஆசீர்வாதத்துடன் பொன்னான பந்தத்திற்கு அடித்தளம் இடப்பட்டது."
+      en: "The auspicious first meeting of both families. With deep traditional values matching, Ramesh and Priyanka exchanged gentle smiles, and a lifetime bond of gold was instantly forged under the blessings of family elders.",
+      ta: "இரு குடும்பங்களின் மங்களகரமான முதல் சந்திப்பு. பாரம்பரிய முறைப்படி ரமேஷ் மற்றும் பிரியங்கா தங்களை ஒருவருக்கொருவர் புரிந்து கொண்டனர். பெரியோர்களின் ஆசீர்வாதத்துடன் பொன்னான பந்தத்திற்கு அடித்தளம் இடப்பட்டது."
     },
     image: "https://images.unsplash.com/photo-1604017011826-d3b4c23f8914?auto=format&fit=crop&q=80&w=800"
   },
@@ -462,7 +462,7 @@ export const FAMILY_MEMBERS: FamilyMember[] = [
     relation: { en: "Bride's Mother | Creative Fabric Designer", ta: "மணமகளின் தாய் | ஆடை கலைவல்லுநர்" },
     role: "parent",
     image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=300",
-    blessing: { en: "My little girl is entering her and Yokesh's newly woven sky. Fly together high with peace and respect.", ta: "நம் இல்லத்து ஆபரணத்தை யோகேஷின் கைகளில் ஒப்படைக்கிறோம். மங்களமும் பெருமகிழ்ச்சியும் தம்பதியரை என்றும் சூழ்க." }
+    blessing: { en: "My little girl is entering her and Ramesh's newly woven sky. Fly together high with peace and respect.", ta: "நம் இல்லத்து ஆபரணத்தை யோகேஷின் கைகளில் ஒப்படைக்கிறோம். மங்களமும் பெருமகிழ்ச்சியும் தம்பதியரை என்றும் சூழ்க." }
   },
   {
     id: "fam-5",
@@ -470,7 +470,7 @@ export const FAMILY_MEMBERS: FamilyMember[] = [
     relation: { en: "Bride's Brother | Software Architect", ta: "மணமகளின் தம்பி | மென்பொருள் பொறியாளர்" },
     role: "sibling",
     image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=300",
-    blessing: { en: "Super excited to welcome Yokesh into our family! Best wishes sis and brother-in-law!", ta: "அக்காவுக்கு துணையாக வரும் அத்தானை மகிழ்ச்சியுடன் வரவேற்கிறேன்! இல்லற பயணம் இனிதாகட்டும்!" }
+    blessing: { en: "Super excited to welcome Ramesh into our family! Best wishes sis and brother-in-law!", ta: "அக்காவுக்கு துணையாக வரும் அத்தானை மகிழ்ச்சியுடன் வரவேற்கிறேன்! இல்லற பயணம் இனிதாகட்டும்!" }
   },
   {
     id: "fam-6",
@@ -540,7 +540,7 @@ export const GALLERY_PHOTOS = [
 export const DICTIONARY = {
   en: {
     weddingWebsite: "South Indian Wedding Website",
-    weddingPortal: "Yokesh & Priyanka's Wedding Ceremony",
+    weddingPortal: "Ramesh & Priyanka's Wedding Ceremony",
     saveTheDate: "Save The Date",
     viewEvents: "View Events",
     rsvpBtn: "RSVP Now",
@@ -616,7 +616,7 @@ export const DICTIONARY = {
   },
   ta: {
     weddingWebsite: "தென்னிந்திய திருமண இணையதளம்",
-    weddingPortal: "யோகேஷ் & பிரியங்கா திருமண விழா",
+    weddingPortal: "ரமேஷ் & பிரியங்கா திருமண விழா",
     saveTheDate: "மங்கள அழைப்பு",
     viewEvents: "நிகழ்ச்சி விபரங்கள்",
     rsvpBtn: "RSVP பதிவு செய்க",

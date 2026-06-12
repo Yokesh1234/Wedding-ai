@@ -107,7 +107,7 @@ export const WeddingMonogram: React.FC<Props> = ({ className = "w-32 h-32", anim
           textAnchor="middle"
           letterSpacing="-2"
         >
-          Y
+          R
         </text>
 
         {/* Letter P */}

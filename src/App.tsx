@@ -136,7 +136,7 @@ function WeddingAppContent() {
           <div className="flex flex-col items-center space-y-2">
             <WeddingMonogram className="w-24 h-24 mb-2 drop-shadow-lg" />
             <h3 className="font-serif font-black text-2xl sm:text-3xl tracking-[0.25em] text-amber-400 uppercase mt-2">
-              Yokesh & Priyanka
+              Ramesh & Priyanka
             </h3>
             <p className="font-mono text-amber-200/50 text-[10px] sm:text-xs uppercase tracking-widest font-extrabold pb-3">
               {t("byLabel")}
